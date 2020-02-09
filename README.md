@@ -24,14 +24,14 @@ Model (Class):
   3. return raw data of categorized element
 
 Features required:
-  HTML_ID (will not be used in the model but will help us identify different htmls)
-  TAG_NAME
-  ATTRIBUTE_ID (Empty if doesn't have)
-  ATTRIBUTE_NAME (Empty if doesn't have)
-  ATTRIBUTE_CLASS (Empty if doesn't have)
-  ATTRIBUTE_CLASS (Empty if doesn't have)
-  ATTRIBUTE_PLACEHOLDER (Empty if doesn't have)
-  IN_FORM (boolean true/false)
-  TAG_DEPTH
-  TAG_STRING
-  LABEL (0,1,2,3)   0 - Other, 1 - User name, 2 - Password, 3 - Submit
+- HTML_ID (will not be used in the model but will help us identify different htmls)
+- TAG_NAME
+- ATTRIBUTE_ID (Empty if doesn't have)
+- ATTRIBUTE_NAME (Empty if doesn't have)
+- ATTRIBUTE_CLASS (Empty if doesn't have)
+- ATTRIBUTE_CLASS (Empty if doesn't have)
+- ATTRIBUTE_PLACEHOLDER (Empty if doesn't have)
+- IN_FORM (boolean true/false)
+- TAG_DEPTH
+- TAG_STRING
+- LABEL (0,1,2,3)   0 - Other, 1 - User name, 2 - Password, 3 - Submit
