@@ -1,0 +1,69 @@
+,HTML_ID,TAG_NAME,ATTRIBUTE_ID,ATTRIBUTE_NAME,ATTRIBUTE_CLASS,ATTRIBUTE_PLACEHOLDER,IN_FORM,TAG_DEPTH,TAG_STRING,LABEL
+0,1,a,header_logo,None,None,None,0,5,BMO Financial Group logo,0
+1,1,a,None,None,None,None,0,6,Locate an ATM or Branch,0
+2,1,a,None,None,None,None,0,6,Contact Us,0
+3,1,a,None,None,None,None,0,6,Français,0
+4,1,form,frmDropDown,frmDropDown,None,None,0,5,,0
+5,1,label,lbl_signin,None,None,None,1,6,Other BMO Sites: ,0
+6,1,select,signin,signin,['signin'],None,1,7,,0
+7,1,option,None,None,None,None,1,8,BMO InvestorLine,0
+8,1,option,None,None,None,None,1,8,BMO Nesbitt Burns,0
+9,1,option,None,None,None,None,1,8,BMO SmartFolio,0
+10,1,option,None,None,None,None,1,8,BMO Mutual Funds,0
+11,1,option,None,None,None,None,1,8,BMO Private Banking,0
+12,1,a,header_goButton,None,None,None,1,6,GO,0
+13,1,ul,pageLevelUtilitiesNav,None,None,None,0,9,,0
+14,1,li,None,None,None,None,0,10,"
+				Text Size:
+			",0
+15,1,li,textSize,None,None,None,0,10,,0
+16,1,a,tsSmall,None,None,None,0,11,Small,0
+17,1,a,tsMedium,None,['tsSelected'],None,0,11,Medium,0
+18,1,a,tsLarge,None,None,None,0,11,Large,0
+19,1,a,helpCentre,None,None,None,0,9,Help Centre,0
+20,1,form,regSignInForm,SignOn,None,None,0,9,,0
+21,1,dl,None,None,['signinToggleCardContainer'],None,1,11,,0
+22,1,label,lblSiBankCard,None,None,None,1,13,Card Number:,0
+23,1,input,siBankCard,FBC_Number,"['siBankCard', 'siCardField', 'lightBg']",None,1,13,,1
+24,1,input,siRememberBankCard,saveFBCCheckBox,['siRememberBankCard'],None,1,14,,0
+25,1,label,lblSiRememberBankCard,None,None,None,1,14,Remember my Card,0
+26,1,a,ttSiRememberBankCard,None,['ttSiRememberCard'],None,1,14,,0
+27,1,dl,None,None,['signinToggleCardContainer'],None,1,11,,0
+28,1,label,lblSiBankCardNickName,None,None,None,1,13,Nickname (optional):,0
+29,1,input,siBankCardNickName,FBC_Nickname,"['siBankCardNickName', 'siNicknameField', 'lightBg', 'nicknameValidation']",None,1,13,,0
+30,1,ul,None,None,['signinToggleLinks'],None,1,11,,0
+31,1,li,None,None,['signinToggleForgotPassword'],None,1,12,,0
+32,1,dl,None,None,['signinToggleCardContainer'],None,1,11,,0
+33,1,label,lblSiBankCardPassword,None,None,None,1,13,Password:,0
+34,1,input,regSignInPassword,FBC_Password,None,None,1,13,,2
+35,1,input,btnBankCardContinueNoCache1,None,['btnSubmit'],None,1,14,,0
+36,1,a,None,None,['links'],None,1,14,Forgot your password?,0
+37,1,input,None,state,None,None,1,10,,0
+38,1,input,None,saveFBC,None,None,1,10,,0
+39,1,noscript,None,None,None,None,1,10,,0
+40,1,object,None,None,None,None,1,11,,0
+41,1,param,None,movie,None,None,1,12,,0
+42,1,param,None,quality,None,None,1,12,,0
+43,1,param,None,bgcolor,None,None,1,12,,0
+44,1,param,None,FlashVars,None,None,1,12,,0
+45,1,embed,None,None,None,None,1,12,,0
+46,1,noembed,None,None,None,None,1,12,,0
+47,1,noobject,None,None,None,None,1,12,,0
+48,1,noobject,None,None,None,None,1,12,,0
+49,1,input,pm_fp,pm_fp,None,None,1,10,,0
+50,1,iframe,lmeIntegrationIframe,None,None,None,0,10,,0
+51,1,br,None,None,None,None,0,12,,0
+52,1,a,RegisterButton,None,None,None,0,11,BMO Debit Card holders Register Online,0
+53,1,ul,None,None,['signinToggleLinks'],None,0,10,,0
+54,1,br,None,None,None,None,0,12,,0
+55,1,a,RegisterButton,None,None,None,0,11,BMO Credit Card holders Register Online,0
+56,1,ul,None,None,['signinToggleLinks'],None,0,9,,0
+57,1,a,None,None,None,None,0,9,,0
+58,1,a,None,None,None,None,0,9,,0
+59,1,br,None,None,None,None,0,9,,0
+60,1,br,None,None,None,None,0,9,,0
+61,1,a,None,None,None,None,0,7,Privacy,0
+62,1,a,None,None,None,None,0,7,Legal,0
+63,1,a,None,None,None,None,0,7,Security,0
+64,1,a,None,None,None,None,0,7,CDIC Member,0
+65,1,a,None,None,None,None,0,7,,0
