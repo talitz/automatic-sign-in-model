@@ -1,5 +1,5 @@
 # ASI - Automatic Sign In - ML Based Technology
-![alt text](https://wiki.intuit.com/download/attachments/503879778/Screen%20Shot%202019-08-13%20at%2015.22.59.png?version=1&modificationDate=1565699309000&api=v2)
+![alt text](https://ibb.co/jDW1pC3)
 
 ASI can perform automatic login with machine learning based techniques. It learns the HTML structure of many banks, and when given a new login page it can find the necessary elements (username, password and submit button) to perform the login automatically.
 
